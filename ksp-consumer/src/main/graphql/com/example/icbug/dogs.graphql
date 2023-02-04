@@ -1,0 +1,6 @@
+query Dogs {
+    dogs {
+        name
+        age
+    }
+}
